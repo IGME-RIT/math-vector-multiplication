@@ -1,0 +1,14 @@
+series: Vector Mathematics
+title: Intermediate Vector Ops
+author:
+  name: Andrew Litfin
+  email:
+  github: astrodude80
+description: This example explains the Magnitude, Dot Product, and Cross Product operations, with geometric considerations.
+language: C++
+tags:
+  - Math
+extra_resources:
+  - title: The Wikipedia article on Euclidean vectors
+    link: https://en.wikipedia.org/wiki/Euclidean_vector
+connections:
