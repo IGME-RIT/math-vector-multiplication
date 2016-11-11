@@ -12,3 +12,5 @@ extra_resources:
   - title: The Wikipedia article on Euclidean vectors
     link: https://en.wikipedia.org/wiki/Euclidean_vector
 connections:
+  - series: Vector Mathematics
+    title: Introduction to Vector Math
